@@ -1,2 +1,4 @@
 Atom/atom
 コミットするよ
+Git diff
+
