@@ -4,4 +4,4 @@ Git diff
 Git commit -- amend
 Git merge
 conflict
-Pull requrst
+Pull request
