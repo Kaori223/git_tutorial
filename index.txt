@@ -2,4 +2,6 @@ Atom/atom
 コミットするよ
 Git diff
 Git commit -- amend
-git merge
+Git merge
+conflict
+Pull request
